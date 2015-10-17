@@ -1,0 +1,1 @@
+(load-theme 'ample t)
