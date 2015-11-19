@@ -1,0 +1,1 @@
+(require 'tup-mode)
