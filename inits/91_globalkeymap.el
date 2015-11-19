@@ -9,3 +9,6 @@
 (global-set-key (kbd "C-c b") 'recompile)
 (global-set-key (kbd "C-c g") 'magit-status)
 
+;; 画面分割
+(global-set-key (kbd "C-c t") 'three-column-split)
+(windmove-default-keybindings)
