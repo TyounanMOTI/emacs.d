@@ -6,3 +6,4 @@ recentf
 site-lisp/ac-c-headers/Readme.org
 site-lisp/ac-c-headers/screencast.gif
 .cask/
+/eshell/history
