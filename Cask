@@ -35,3 +35,4 @@
 (depends-on "web-mode")
 (depends-on "wgrep")
 (depends-on "yasnippet")
+(depends-on "ddskk")
