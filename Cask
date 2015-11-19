@@ -14,8 +14,6 @@
 (depends-on "exec-path-from-shell")
 (depends-on "expand-region")
 (depends-on "f")
-(depends-on "flycheck")
-(depends-on "flycheck-cask")
 (depends-on "helm")
 (depends-on "helm-flycheck")
 (depends-on "htmlize")
