@@ -3,7 +3,6 @@
 (ac-config-default)
 
 ;; auto complete c headers
-(add-to-list 'load-path "~/.emacs.d/site-lisp/ac-c-headers/")
 (require 'ac-c-headers)
 
 (defun my:ac-c-headers-init ()
