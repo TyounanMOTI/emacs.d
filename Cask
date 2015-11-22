@@ -37,3 +37,4 @@
 (depends-on "yasnippet")
 (depends-on "ddskk")
 (depends-on "tup-mode")
+(depends-on "cmake-mode")
