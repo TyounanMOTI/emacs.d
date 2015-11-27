@@ -1,6 +1,3 @@
-;;; init.el --- private emacs init
-;;; Commentary:
-;;; Code:
 (require 'package)
 (add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
 (add-to-list 'package-archives '("melpa" . "http://melpa.milkbox.net/packages/") t)
@@ -11,6 +8,3 @@
 
 (require 'init-loader)
 (init-loader-load)
-
-(provide 'init.el)
-;;; init.el ends here
