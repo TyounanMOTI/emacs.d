@@ -9,6 +9,7 @@
 (global-set-key (kbd "C-c b") 'recompile)
 (global-set-key (kbd "C-c c") 'compile)
 (global-set-key (kbd "C-c g") 'magit-status)
+(global-set-key (kbd "C-c f") 'helm-recentf)
 
 ;; 画面分割
 (global-set-key (kbd "C-c t") 'three-column-split)
