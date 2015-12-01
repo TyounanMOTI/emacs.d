@@ -38,3 +38,4 @@
 (depends-on "ddskk")
 (depends-on "tup-mode")
 (depends-on "cmake-mode")
+(depends-on "web-mode")
